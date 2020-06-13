@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: wordpress.org
+Token: 76c48c22227f868df1d8dc6a2414b2585ded62101bdbb1bb3f572d6bfd67fa9e
