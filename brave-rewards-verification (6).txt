@@ -1,4 +1,4 @@
-This is a Brave Rewards publisher verification file.
+Brave Rewards publisher verification file.
 
-Domain: wordpress.org
-Token: 76c48c22227f868df1d8dc6a2414b2585ded62101bdbb1bb3f572d6bfd67fa9e
+Domain: autofaucet.org
+Token: 947dc331066e827152ceaba4fe36c18b87e8e02818d7984ccd0aa282989084d0
